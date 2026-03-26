@@ -1,0 +1,14 @@
+.env
+*.pyc
+__pycache__/
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+firebase-credentials.json
+gcs-credentials.json
+*.pem
+*.key
+.DS_Store
